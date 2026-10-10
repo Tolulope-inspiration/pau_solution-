@@ -1,0 +1,1 @@
+"""CampusSync backend package."""
